@@ -3,4 +3,3 @@ numpy==1.21.3
 tweepy==3.10.0
 matplotlib==3.3.3
 ntlk==3.2.5
-textblob==0.15.3
