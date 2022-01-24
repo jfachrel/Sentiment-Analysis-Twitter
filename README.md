@@ -1,1 +1,1 @@
-# Sentiment Analysis Twitter App
+# Twitter Sentiment Analysis App
