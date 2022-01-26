@@ -8,3 +8,4 @@
 - tweepy==3.10.0
 - matplotlib==3.3.3
 - ntlk==3.2.5
+- sqlite==3.37.0
